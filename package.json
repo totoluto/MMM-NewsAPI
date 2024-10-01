@@ -1,0 +1,28 @@
+{
+  "name": "mmm-newsapi",
+  "version": "1.0.0",
+  "description": "Displays the news on your Magic Mirror based on your settings",
+  "main": "MMM-NewsAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totoluto/MMM-NewsAPI.git"
+  },
+  "keywords": [
+    "News",
+    "API",
+    "MagicMirror",
+    "MMM"
+  ],
+  "author": "totoluto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/totoluto/MMM-NewsAPI/issues"
+  },
+  "homepage": "https://github.com/totoluto/MMM-NewsAPI#readme",
+  "dependencies": {
+    "newsapi": "^2.4.1"
+  }
+}

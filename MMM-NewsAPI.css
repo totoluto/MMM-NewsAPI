@@ -1,0 +1,21 @@
+.compact-news {
+    font-size: inherit;
+}
+
+.news-item {
+    margin-bottom: 8px;
+}
+
+.news-title {
+    font-weight: bold;
+}
+
+.news-source {
+    color: gray;
+    margin-left: 5px;
+}
+
+.news-description {
+    margin: 2px 0 4px 0;
+    color: #888;
+}
